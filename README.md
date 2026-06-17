@@ -8,6 +8,11 @@
 Este repositorio alberga mis configuraciones personales (**Dotfiles**) y el entorno gráfico completo optimizado para desarrollo de software. Diseñado bajo una filosofía minimalista y de alto rendimiento, este setup elimina la carga de entornos pesados, priorizando el control total mediante teclado, la fluidez visual y una gestión de memoria ultra eficiente
 ---
 
+## 📸 Vista Previa
+
+![ReconOS Desktop](assets/ReconOS.PNG)
+
+---
 ## 📋 Especificaciones del Sistema de Origen
 
 El entorno ha sido meticulosamente construido, depurado y empaquetado bajo las siguientes especificaciones técnicas. Si despliegas en un entorno similar, la compatibilidad está garantizada al 100%
