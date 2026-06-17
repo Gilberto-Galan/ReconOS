@@ -1,0 +1,5 @@
+super + c
+xclip -selection clipboard
+
+super + v
+xclip -selection clipboard -o | xdotool type --clearmodifiers --file -
