@@ -73,7 +73,7 @@ El script `install.sh` se encarga de resolver dependencias de repositorios (`apt
 Accede a tu terminal e inicializa la descarga del entorno dentro de tu directorio de usuario:
 ```bash
 git clone https://github.com/TU_USUARIO/mis-dotfiles.git
-cd mis-dotfiles
+cd ReconOS
 ```
 
 ### 2. Otorgar permisos y ejecutar el script
